@@ -21,3 +21,5 @@ def main():
     print('x =', x, 'y =', y)
 
 main()
+
+help(swap)
